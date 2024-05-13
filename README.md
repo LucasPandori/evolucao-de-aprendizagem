@@ -4,6 +4,7 @@
 - Tipos de dados II
 - Gestão de tempo
 - Tipos Utilitários
+- Métodos de strings
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -13,14 +14,21 @@
 
 - Sei que gestão de tempo é muito importante, tanto para finalizar suas tarefas no prazo quanto para se ter uma vida mais organizada e conseguir lidar com imprevistos. Tenho conhecimento sobre alguns métodos de estudo, como método pomodoro, no qual eu já usei para melhorar meus estudos.
 
-- Para ser sincero não sei nada sobre tipos utilitários
+- Para ser sincero não sei nada sobre tipos utilitários.
+
+- As strings são sequências de caracteres (letras, números, simbolos ) que com o auxilio de aspas simples ou duplas ( '', "" ) formam textos que podem ser armazenadas em variáveis.
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 - Gostaria de aprender outras funcionalidades, caso tenha alguma, e desenvolver a lógica certa para usá-lo.
+  
 - Quero aprender sobre novos tipos de dados que talvez existam e outras formas de tipagem que possa ajudar ou ao menos facilitar na hora de escolher o tipo de dado certo para o código não dar erro.
+  
 - Acharia interessante aprender sobre outros métodos de estudo que possa ajudar a me concentrar mais nos meus estudos e ferramentas que me ajudem a me organizar melhor.
+  
 - Quero descobrir o que são tipos utilitários, para que servem e onde posso usá-los.
+
+- O que são métodos de strings, como posso usá-los e como isso pode me ajudar a criar códigos mais complexos e com mais facilidade.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
