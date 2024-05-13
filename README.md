@@ -16,7 +16,7 @@
 
 - Para ser sincero não sei nada sobre tipos utilitários.
 
-- As strings são sequências de caracteres (letras, números, simbolos ) que com o auxilio de aspas simples ou duplas ( '', "" ) formam textos que podem ser armazenadas em variáveis.
+- As strings são sequências de caracteres (letras, números, simbolos ) que com o auxilio de aspas simples ou duplas ( '', "" ) formam textos que podem ser armazenados em variáveis e serem concatenados para juntar dois ou mais textos.
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
