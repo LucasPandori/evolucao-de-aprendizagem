@@ -5,6 +5,7 @@
 - Gestão de tempo
 - Tipos Utilitários
 - Métodos de strings
+- Métodos de array
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -18,6 +19,8 @@
 
 - As strings são sequências de caracteres (letras, números, simbolos ) que com o auxilio de aspas simples ou duplas ( '', "" ) formam textos que podem ser armazenados em variáveis e serem concatenados para juntar dois ou mais textos.
 
+- Arrays são como listas que podem armazenar dados como números, strings, booleanos e objetos. Para utilizá-las é preciso criar uma variavel e logo depois usar colchetes "[]".
+
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 - Gostaria de aprender outras funcionalidades, caso tenha alguma, e desenvolver a lógica certa para usá-lo.
@@ -30,6 +33,8 @@
 
 - O que são métodos de strings, como posso usá-los e como isso pode me ajudar a criar códigos mais complexos e com mais facilidade.
 
+- Métodos que poderão facilitar a manipulação dos arrays sem mudar diretamente os arrays em si.
+
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 - Aprendi que posso executar uma função sem parâmetro, apenas chamando-a e abrindo e fechando parênteses. Outras coisas que eu aprendi foi que caso a variável tenha o mesmo nome que o parâmetro, eu posso apenas colocar o nome uma vez que a máquina ja entende que aquela variável vai receber o valor do parâmetro de nome igual; o return não mostra nada no terminal, pois precisa do console.log para mostrar; tudo que estiver depois do return não será mostrado, mesmo com console.log; uma nova funcionalidade usando o arrow function e a fazer a tipagem dos parâmetros e do return da função.
@@ -41,6 +46,8 @@
 - Tipos utilitários são tipos do typescript, que servem para facilitar transformações de tipo comum (Utilitário<tipo>). Os tipos que foram comentados em aula foram o Partial, Require, Readonly, Pick, Omit, Record, Exclude, Extract, Upercase, Lowercase e Capitalize.O Partial transforma todas as propriedades em opcionais, permitindo que não use uma propriedade; O Require faz com que as propriedade sejam todas obrigatórias e se elas forem opcionais ele as transformará em obrigatórias; Readonly é um tipo utilitário que não permite que você altere o valor de alguma propriedade; Pick(Pick<tipo, propriedade1 | propriedade2>) permite que o programador escolha quais propriedades do tipo vai ser usado, excluindo as propriedades que não foram escolhidas; Omit(Omit<tipo, propriedade_excluida1 | propriedade_excluida2>) este tipo utilitário permite que o programador escolha quais propriedades ele irá remover, usando apenas as propriedades que ele não selecionou; O Record (Record<chaves,tipo>) cria um type, onde todos as propriedades deste type criado vão ser do mesmo tipo comum (number, string, boolean); Exclude (Exclude<união_tipos, item_excluidos>) este tipo exclui um ou mais itens de uma união de tipos; O Extract (Extract<união_tipos, item_adicionado>) ao contrário do exclude, extrai o item da união de tipos; Upercase (Upercase<tipostring>) transforma todas as letras da string desse tipo em maiúsculas; Lowercase (Lowercase<tipostring>): transforma todas as letras da string desse tipo em minúsculas; Capitalize (Capitalize<tipostring>): transforma a primeira letra da string desse tipo em maiúscula.
 
 - Métodos de strings são métodos onde é possível modificar strings que já foram criadas, criando novas strings a partir das existentes, mas com as modificações escolhidas de acordo com o método que foi usado. Os tipos de métodos comentados em aula  foram: **.trim()**: Cria uma nova string, a partir da string que você criou, eliminando todos os espaços do inicio ao fim; **.trimStar()**: remove todos os espaços apenas do início de uma string; **.trimEnd()**: remove todos os espaços apenas do fim de uma string; **.toUpperCase()**: Transforma os caracteres de uma string em caracteres maiúsculos; **.toLowerCase()**: Transforma os caracteres de uma string em caracteres minúculos; **.substring(indiceInicial, IndiceFinal)**: Retorna a parte de uma string a partir do indice inicial até final(opcional) e se o indiceFinal for maior que o indiceInicial ele inverte os valores; **.slice()**: Extrai uma parte de uma string de acordo com os indices que foram passados, mas os indices, tanto inicial quanto final, são opcionais, pode usá-lo sem passar os indices que ele irá retornar a string toda e quando é passado um valor negativo nos indices ele conta do final para o começo; **.split(separador, limite(opcional))**: Converte uma string em um array contendo os caracteres da string, incluindo os espaços, ou converte em um array contendo a string separada da maneira que o programador passar dentro dos parênteses; **.replace(stringTrocada, stringNova)**: substitui a primeira correspondência da string por outra; **.replaceAll(stringTrocada, stringNova)**: substitui todas  as correspondências da string por outra(disponivel a partir do ES2022); **.padStart(tamanhoMaximo, preenchimento)**: Completa o inicio da string com a correspondência, de acordo com o tamanho da string; **.padEnd(tamanhoMaximo, preenchimento(opcional))**: Completa o fim da string com o preenchimento, de acordo com o tamanho da string; **.includes(stringProcurada)**: Retorna um booleano (true ou false) caso encontre ou não uma correspondência em uma string ; **.indexOf(stringProcurada)**: Retorna a posição em que a correspondência da string está, caso não encontre nenhuma palavra correspondente, vai ser retornado o número -1.
+
+- Nesta aula aprendemos métodos para manipular arrays de forma mais fácil e rápida. Esses métodos foram: .push(): ele recebe itens dentro dos parênteses e esses itens que foram passados serão adicionados no array; .pop(): este método remove o último elemento do array; .shift(): remove o primeiro elemento do array e retorna o elemento que foi removido; .unshift(): adiciona o elemento(s) que foi passado no parênteses no começo do array e retorna o novo tamanho do array; .indexOf(): retorna em que posição o elemento, que foi passado no parênteses, está no array e caso o elemento não esteja no array irá ser retornado o número -1; .include(): verifica se o elemento que foi passado no  parênteses esta no array, caso esteja será retornado "true", caso contrário será retornado "false"; .reverse(separador): inverte a ordem de um array; .join(): junta todos os elementos de um array transformando-os em uma string e o programador pode escolher o separador entre as letras, caso ele não escolha, depois de cada letra terá uma vírgula; .slice(inicio, final): retorna uma array contendo a parte de outro array de acordo com os indices passados nos parênteses; .splice(removerIndice,quantosApartirDaquele,adicionar): altera um array removendo e/ou adicionando outros elementos e retornando os elementos que ele removeu.
 
 
 
