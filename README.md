@@ -6,6 +6,7 @@
 - Tipos Utilitários
 - Métodos de strings
 - Métodos de array
+- Métodos de array II
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -21,6 +22,8 @@
 
 - Arrays são como listas que podem armazenar dados como números, strings, booleanos e objetos. Para utilizá-las é preciso criar uma variavel e logo depois usar colchetes "[]".
 
+- Sei o que são arrays e alguns métodos que foram ensinados na aula passada de métodos de array I.
+
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 - Gostaria de aprender outras funcionalidades, caso tenha alguma, e desenvolver a lógica certa para usá-lo.
@@ -35,6 +38,8 @@
 
 - Métodos que poderão facilitar a manipulação dos arrays sem mudar diretamente os arrays em si.
 
+- Espero aprender mais métodos que me ajudarão da mesma forma que os anteriores ou ajudarão ainda mais.
+
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 - Aprendi que posso executar uma função sem parâmetro, apenas chamando-a e abrindo e fechando parênteses. Outras coisas que eu aprendi foi que caso a variável tenha o mesmo nome que o parâmetro, eu posso apenas colocar o nome uma vez que a máquina ja entende que aquela variável vai receber o valor do parâmetro de nome igual; o return não mostra nada no terminal, pois precisa do console.log para mostrar; tudo que estiver depois do return não será mostrado, mesmo com console.log; uma nova funcionalidade usando o arrow function e a fazer a tipagem dos parâmetros e do return da função.
@@ -48,6 +53,9 @@
 - Métodos de strings são métodos onde é possível modificar strings que já foram criadas, criando novas strings a partir das existentes, mas com as modificações escolhidas de acordo com o método que foi usado. Os tipos de métodos comentados em aula  foram: **.trim()**: Cria uma nova string, a partir da string que você criou, eliminando todos os espaços do inicio ao fim; **.trimStar()**: remove todos os espaços apenas do início de uma string; **.trimEnd()**: remove todos os espaços apenas do fim de uma string; **.toUpperCase()**: Transforma os caracteres de uma string em caracteres maiúsculos; **.toLowerCase()**: Transforma os caracteres de uma string em caracteres minúculos; **.substring(indiceInicial, IndiceFinal)**: Retorna a parte de uma string a partir do indice inicial até final(opcional) e se o indiceFinal for maior que o indiceInicial ele inverte os valores; **.slice()**: Extrai uma parte de uma string de acordo com os indices que foram passados, mas os indices, tanto inicial quanto final, são opcionais, pode usá-lo sem passar os indices que ele irá retornar a string toda e quando é passado um valor negativo nos indices ele conta do final para o começo; **.split(separador, limite(opcional))**: Converte uma string em um array contendo os caracteres da string, incluindo os espaços, ou converte em um array contendo a string separada da maneira que o programador passar dentro dos parênteses; **.replace(stringTrocada, stringNova)**: substitui a primeira correspondência da string por outra; **.replaceAll(stringTrocada, stringNova)**: substitui todas  as correspondências da string por outra(disponivel a partir do ES2022); **.padStart(tamanhoMaximo, preenchimento)**: Completa o inicio da string com a correspondência, de acordo com o tamanho da string; **.padEnd(tamanhoMaximo, preenchimento(opcional))**: Completa o fim da string com o preenchimento, de acordo com o tamanho da string; **.includes(stringProcurada)**: Retorna um booleano (true ou false) caso encontre ou não uma correspondência em uma string ; **.indexOf(stringProcurada)**: Retorna a posição em que a correspondência da string está, caso não encontre nenhuma palavra correspondente, vai ser retornado o número -1.
 
 - Nesta aula aprendemos métodos para manipular arrays de forma mais fácil e rápida. Esses métodos foram: .push(): ele recebe itens dentro dos parênteses e esses itens que foram passados serão adicionados no array; .pop(): este método remove o último elemento do array; .shift(): remove o primeiro elemento do array e retorna o elemento que foi removido; .unshift(): adiciona o elemento(s) que foi passado no parênteses no começo do array e retorna o novo tamanho do array; .indexOf(): retorna em que posição o elemento, que foi passado no parênteses, está no array e caso o elemento não esteja no array irá ser retornado o número -1; .include(): verifica se o elemento que foi passado no  parênteses esta no array, caso esteja será retornado "true", caso contrário será retornado "false"; .reverse(separador): inverte a ordem de um array; .join(): junta todos os elementos de um array transformando-os em uma string e o programador pode escolher o separador entre as letras, caso ele não escolha, depois de cada letra terá uma vírgula; .slice(inicio, final): retorna um array contendo a parte de outro array de acordo com os indices passados nos parênteses; .splice(removerIndice,quantosApartirDaquele,adicionar): altera um array removendo e/ou adicionando outros elementos e retornando os elementos que ele removeu.
+
+- Nesta aula aprendemos outros métodos de arrays e suas funções. Esses métodos foram: Callbacks com setTimeout: já é nativo do javascript e é uma função que serve para executar em um tempo pré definido. Exemplo: setTimeout(função, 2000(valor em milisegundos)) ou setTimeout(() => { console.log("imprime a função")}, 5000); Callbacks com setinterval: Nativo do javascript, é um modo de deixar a função rodando até que seja interrompida, tendo o intervalo entre um funcionamento e outro definido por um tempo que foi pré determinado. Exemplo:setInterval(() => { console.log("imprime a função")}, 5000). O clearInterval serve para interromper ou limpar um setInterval. Exemplo: clearInterval(id); every: testa se todos os elementos do array passam pelo teste implementado e retorna true ou false; some: Testa se pelo menos um dos elementos atende a condição implementada e retorna true ou false; find: busca um elemento em um array e retorna o elemento caso exista; findindex: Busca um elemento em um array e retorna o indice dele no array caso exista, se o elemento não exitir ele retorna -1; filter: filtra todos os elementos de um array e retorna um novo array com os elementos que atendam as condições que foram passadas na função e caso não ache nenhum elemento ele retorna um array vazio; map: Percorre todos os elementos de um array e retorna um novo array com o formato implementado.
+
 
 
 
