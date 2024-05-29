@@ -8,6 +8,7 @@
 - Métodos de array
 - Métodos de array II
 - Métodos de arrays III
+- Linkedin: Primeiros Passos
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -27,6 +28,8 @@
 
 - Ja tenho conhecimento do que são arrays e como são usados, além de ja ter conhecimento sobre alguns métodos como push que serve para adicionar itens ao array, includes que verifica se o item esta no array ou não, filter que serve para filtrar os elementos que estão sendo procurados e os adiciona em um novo array, entre vários outros métodos.
 
+- O linkedin é uma rede social profissional, servindo para facilitar o networking entre as pessoas e ajudando na contratação de profisisonais de diversas áreas. Por ser uma platafroma profissional é esperado que o usuário tenha uma boa conduta, use uma foto de perfil profissional e não fique postando coisas sobre política, religião dentre outros assuntos pessoais. Além disso existem algumas dicas que facilitam na sua contratação e na visibilidade do seu perfil, como por exemplo: usar uma foto de capa que tenha relação com a área que deseja atuar, titulo com palavras chaves (ferramentas que você utiliza, nome da profissão), utilizar a área de competências colocando conhecimentos que você tem, publicar conclusões de cursos que você tenha feito, ser ativo na platafroma entre outras dicas.
+
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 - Gostaria de aprender outras funcionalidades, caso tenha alguma, e desenvolver a lógica certa para usá-lo.
@@ -44,6 +47,8 @@
 - Espero aprender mais métodos que me ajudarão da mesma forma que os anteriores ou ajudarão ainda mais.
 
 - Nesta aula espero ter conhecimento sobre demais métodos e adquirir conhecimento o suficiente para fazer códigos de uma maneira mais eficiente.
+
+- Eu espero aprender dicas de como usar o linkedin para ter um networking maior e para ser contratado. Espero também saber como construir um "sobre" elaborado e interessante para as empresas e como usar de forma correta a área de "Formação acadêmica" e de "Licenças e certificado".
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
