@@ -5,6 +5,7 @@
 - Gestão de tempo
 - Tipos Utilitários
 - Métodos de strings
+- Currículo e carta de apresentação
 - Métodos de array
 - Métodos de array II
 - Métodos de arrays III
@@ -21,6 +22,8 @@
 - Para ser sincero não sei nada sobre tipos utilitários.
 
 - As strings são sequências de caracteres (letras, números, simbolos ) que com o auxilio de aspas simples ou duplas ( '', "" ) formam textos que podem ser armazenados em variáveis e serem concatenados para juntar dois ou mais textos.
+
+- Um currículo é um tipo de documento que possui informações acadêmicas e profissionais de uma pessoa. Esse documento vai ser analisado por um recrutador este verá se o perfil da pessoa que está se candidatando, é condizente com o que a empresa precisa. A carta de apresentação é uma carta que o candidato faz e entrega ao recrutador. Nesta carta à algumas informações pessoais do candidato e um pouco de sua trajetória.
 
 - Arrays são como listas que podem armazenar dados como números, strings, booleanos e objetos. Para utilizá-las é preciso criar uma variavel e logo depois usar colchetes "[]".
 
@@ -41,6 +44,8 @@
 - Quero descobrir o que são tipos utilitários, para que servem e onde posso usá-los.
 
 - O que são métodos de strings, como posso usá-los e como isso pode me ajudar a criar códigos mais complexos e com mais facilidade.
+
+- Quero aprender a como montar um currículo bom, organizado e quais informações precisam ser colocadas para se destacar. Além de querer saber se é útil ou não fazer uma carta de apresentação.
 
 - Métodos que poderão facilitar a manipulação dos arrays sem mudar diretamente os arrays em si.
 
