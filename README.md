@@ -23,7 +23,7 @@
 
 - As strings são sequências de caracteres (letras, números, simbolos ) que com o auxilio de aspas simples ou duplas ( '', "" ) formam textos que podem ser armazenados em variáveis e serem concatenados para juntar dois ou mais textos.
 
-- Um currículo é um tipo de documento que possui informações acadêmicas e profissionais de uma pessoa. Esse documento vai ser analisado por um recrutador este verá se o perfil da pessoa que está se candidatando, é condizente com o que a empresa precisa. A carta de apresentação é uma carta que o candidato faz e entrega ao recrutador. Nesta carta à algumas informações pessoais do candidato e um pouco de sua trajetória.
+- Um currículo é um tipo de documento que possui informações acadêmicas e profissionais de uma pessoa. Esse documento vai ser analisado por um recrutador, este verá se o perfil da pessoa que está se candidatando, é condizente com o que a empresa precisa. A carta de apresentação é uma carta que o candidato faz e entrega ao recrutador. Nesta carta à algumas informações pessoais do candidato e um pouco de sua trajetória.
 
 - Arrays são como listas que podem armazenar dados como números, strings, booleanos e objetos. Para utilizá-las é preciso criar uma variavel e logo depois usar colchetes "[]".
 
