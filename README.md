@@ -85,14 +85,78 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
+- Testes automatizados
+- Primeiro Servidor
+- GitHub
+- Rotas, Intermediários e Controladores
+- API REST
+- Comunicação
+- Orientação a objetos
+- Pesquisas e leitura de documentações
+- Assincronismo e leitura e escrita de arquivos
+- Autoconhecimento e inteligência emocional
+- Tratamento de erros com herança e polimorfismo
+- Tendencias em tecnologias
+
+
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
+- Antes desta aula eu fazia testes via terminal, onde eu rodava o código e esperava o retorno e caso desse algum erro eu voltava para o código e tentava achar o erro
+
+- Por conta da imersão eu ja sabia subir uma API, usando o express, com suas funcionalidades simples de cadastrar, listar, excluir e editar
+
+- No comecço do curso eu usei um pouco o GitHub não só para entregar atividades, mas também para aprender um pouco mais dessa plataforma, então conheço algumas funcionalidades do GitHub, como criar repositórios, mexer em algumas partes do perfil e a importância de ter um github e postar algumas coisas sobre o que você está aprendendo e alguns trabalhos seus
+
+- Na imersão, por ter aprendido API, aprendi também a criar controladores, rotas e intermediários, porém não foi tão aprofundado
+
+- Não sei nada sobre API REST
+
+- Em uma das imersões que fiz tive uma aula de comunicação, onde aprendi o quão importante é se comunicar corretamente, tanto para não ocorrer desentendimentos quanto para não haver brigas entre as pessoas
+
+- Não sei sobre orientação a objetos
+
+- Por conta da faculdade eu aprendi a pesquisar  e a ler documentações e artigos cientificos na internet e que tanto artigos cientificos quanto documentações são importantes para tirar dúvidas e/ou obter novos conhecimentos de uma forma mais rápida, fácil e segura do que ficar procurando por sites ou blogs aleatórios na internet
+
+- Sei um pouco sobre assincronismo por terem ensiando esse assunto na faculdade, porém só sei a parte teórica de como funciona, não sei como colocar isso no código
+
+- Por conta das imersões tive essa aula duas vezes e foi incrivel, pois nas duas aulas eu aprendi coisas novas e me fizeram pensar de uma forma diferente, me mostrando uma nova maneira de agir e por conta disso comecei a trabalhar minha inteligencia emocional e a me autoanálisar para poder melhorar como indivíduo, como por exemplo ser flexivel e não me estressar quando as coisas não saírem como planejado e conseguir me adequar as mudanças
+
+- Não sei nada sobre herança e polimorfismo, mas pelo nome imagino que seja algum método de pegar alguma tipagem ou alguma caracteristica de algo e passar para outro
+
+- Sei que a tecnologia evolue bem rápido então temos que sempre estar estudando para não ficar para trás e que a área da tecnologia é muito vasta, então não existe uma tecnologia melhor ou uma linguagem de programação melhor, pois cada tecnologia ou linguagem tem sua oportunidade e seu impacto e que se destaca melhor que as outras em diferentes áreas e funcionalidades. Por exemplo tem linguagens que são melhores para orientação a objetos do que outras, mas isso não significa que essas outras sejam ruins, elas podem ser melhores para outros usos.
+
+
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+
+- Uma maneira mais fácil e rápida de fazer os testes e também uma forma de eu descobrir em que parte do código está o erro, ao invés de ficar procurando
+
+- Um método novo de subir API ou configurações que não tinhamos aprendido na imersão
+
+- Quero aprender outras funcionalidades do GitHub, a montar um perfil bom e interessante, saber criar um readme mais bonito e outras funcionalidades
+
+- Espero me aprofundar mais nessa parte para ter mais conhecimento sobre outros tipos de intermediários e controladores, além de aprender a separá-los corretamente em arquivos diferentes
+
+- Gostaria de aprender o que é API REST e como isso pode me ajudar a criar API's
+
+- Quero aprender um pouco mais sobre esse assunto e também como posso me comunicar melhor com as pessoas, para que não ocorra conflitos
+
+- Pelo nome deduzi que tem algo haver com objetos, então espero aprender outros tipos de objetos ou uma nova maneira de criar objetos
+
+- Espero descobrir novos tipos de documentações e a como usar de uma forma melhor, pois ainda demoro para achar as coisas que estou procurando então espero receber dicas e aprender truques para encontrar a informação que estou procurando mais rápido
+
+- Quero aprender a como implementar um código assincrono, como mexer (ler, escrever, editar, excluir) em arquivos de texto pelo código e como simular melhor um banco de dados usando essa parte de leitura e ewcrita em arquivos
+
+- Gostaria de aprender novos assuntos que não foram abordados nas imersões e talvez conseguir desenvolver mais meu autoconhecimento e a inteligência emocional
+
+- Gostaria de aprender o que é herança e polimorfismo e saber como isso pode me auxiliar na programação
+
+- Gostaria de aprender melhor sobre algumas tecnologias e seus usos e aprender sobre novas tecnologias e suas tendências e impactos
+
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 
-# MÓDULO 3
+# MÓDULO 4
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
