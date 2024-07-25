@@ -1,4 +1,4 @@
-#MÓDULO 2
+# MÓDULO 2
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
@@ -79,3 +79,25 @@
 Outro método que aprendemos foi o método reduce, esse método permite fazer operações com os elementos de um array.Apesar do método reduce ter quatro parâmetros(acumulador,valorAtual, index e array) usamos apenas dois (acumulador e valorAtual), onde o acumulador pode guardar um valor ou não e daí em diante ele faz as operações com todos os números do array.Exemplo: Um array com cinco números sendo eles 1,2,3,4,5, se o acumulador não for escolhido ele valerá 0 e será somado com o 1, depois o resultado dessa soma será somado mais uma vez com o próximo número e assim por diante, agora caso o acumulador seja escolhido ele vai fazer os mesmos passos, porém ao invés de zero o primeiro número do array será somado com o número escolhido. O reduce também pode ser usado em uma matriz, nesse caso o reduce espalha os valores da matriz dentro de um array só, e todos os valores da matriz ficam em um único array.
 
 - Nesta aula aprendi algumas dicas que posso usar para me ajudar a ser contratado, como : usar de forma correta a área de "formação acadêmica" e "licenças e certificado", que uma das maneiras de crescer meu networking é seguindo e se conectando com pessoas da mesma área que eu e com Tech Recruiters, como fazer uma descrição minha usando um modelo como base para chamar a atenção das empresas e onde posso achar vagas e filtrá-las de acordo com o que estou procurando.
+
+
+# MÓDULO 3
+
+## Conteúdos a serem trabalhados nesse módulo:
+
+## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+
+## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+
+## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+
+
+# MÓDULO 3
+
+## Conteúdos a serem trabalhados nesse módulo:
+
+## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+
+## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+
+## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
