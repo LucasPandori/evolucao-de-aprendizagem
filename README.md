@@ -172,16 +172,17 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 - Metodologias ágeis
 - Consultas SQL
 - Modelagem de dados
+- Diversidade e inclusão em tecnologia
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 - Nunca mexi no docker, então não sei quase nada, a única coisa que eu sei é que vamos usá-lo para mexer em um banco de dados real
 
-- Sei que o banco de dados é um local onde guardamos informações de usuários, produtos, informações da empresa, etc
+- Sei que o banco de dados é um local onde podemos armazenar e gerenciar dados de forma segura
 
 - Metodologias ágeis, são métodos que um grupo ou empresa adota para realizar suas tarefas de forma mais organizada e eficiente, acelerando a entrega de um projeto
 
-- Sei que ela é uma lingaugem de consulta e que será usada para mexer no banco de dados
+- Sei que ela é uma lingaugem de consulta usada para mexer em bancos de dados relacionais, a base da lingaugem é a mesma para todos os bancos de dados relacionais e seu código é chamado de query
 
 - Não sei nada sobre modelagem de dados
 
@@ -198,5 +199,9 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 - Quero aprender o que é modelagem de dados e como vamos implementar isso ao banco de dados
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+
+- Na aula aprendi que o docker é uma ferramenta que empacota e isola aplicações, cada aplicação que foi empacotada é chamada de contêiner e cada contêiner usa uma imagem, que seria um modelo das bibliotecas e dependências que serão usadas naquele contêiner. O docker compose é usado para executar aplicativos com vários contêineres, além dele facilitar o gerenciamento de serviços, redes e volumes em um arquivo. Os volumes são mecanismos usados para que os dados gerados pelos contêineres não sejam perdidos. Além disso também aprendi a criar um contêiner, pausar, iniciar, deletar e ver quais contêineres estão ou não sendo utilizados, tudo pelo terminal ou pelo próprio docker desktop
+
+- Aprendi que existem dois tipos de banco de dados, o relacional e o não relacional. O relacional são banco de dados baseados em tabelas e tem foco na consistência dos dados, o não relacional são baseados em documentos e são focados em performance. Aprendi também o que é uma linguagem SQL e que essa lingaugem é usada para interagir com o banco de dados, pode ser aplicada em vários SGBD's como PostgreSQL, MySQL, Oracle, entre outros, a base da linguagem é a mesma para todos os banco de dados relacionais, porém cada SGBD tem sua implementação específica e o código do SQL que é escrito é chamado de query
 
 </details>
