@@ -175,7 +175,27 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
+- Nunca mexi no docker, então não sei quase nada, a única coisa que eu sei é que vamos usá-lo para mexer em um banco de dados real
+
+- Sei que o banco de dados é um local onde guardamos informações de usuários, produtos, informações da empresa, etc
+
+- Metodologias ágeis, são métodos que um grupo ou empresa adota para realizar suas tarefas de forma mais organizada e eficiente, acelerando a entrega de um projeto
+
+- Sei que ela é uma lingaugem de consulta e que será usada para mexer no banco de dados
+
+- Não sei nada sobre modelagem de dados
+
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+
+- Quero aprender mais sobre ele, como usá-lo e como vamos integrar isso nas API's que criamos
+
+- Quero aprender sobre como ele funciona realmente e criar um banco de dados real, pois até agora só simulamos um
+
+- Gostaria de aprender quais metodologias existem, além do kanban e do scrum, e quais são mais usadas na área de programção
+
+- Quero aprender os códigos que são usados e se ela será usada no VScode ou em outro editor de código
+
+- Quero aprender o que é modelagem de dados e como vamos implementar isso ao banco de dados
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
