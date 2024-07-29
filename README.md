@@ -160,6 +160,12 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
+- Introdução ao Docker e Docker compose
+- Introdução a Banco de Dados
+- Metodologias ágeis
+- Consultas SQL
+- Modelagem de dados
+
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
