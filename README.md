@@ -1,4 +1,6 @@
-# MÓDULO 2
+<details>
+
+<summary>MÓDULO 2</summary>
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
@@ -80,8 +82,11 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 - Nesta aula aprendi algumas dicas que posso usar para me ajudar a ser contratado, como : usar de forma correta a área de "formação acadêmica" e "licenças e certificado", que uma das maneiras de crescer meu networking é seguindo e se conectando com pessoas da mesma área que eu e com Tech Recruiters, como fazer uma descrição minha usando um modelo como base para chamar a atenção das empresas e onde posso achar vagas e filtrá-las de acordo com o que estou procurando.
 
+</details>
 
-# MÓDULO 3
+<details>
+  
+<summary>MÓDULO 3</summary>
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
@@ -155,8 +160,10 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
+</details>
 
-# MÓDULO 4
+<details>
+<summary>MÓDULO 4</summary>
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
@@ -171,3 +178,5 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+
+</details>
