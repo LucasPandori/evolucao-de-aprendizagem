@@ -173,6 +173,7 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 - Consultas SQL
 - Modelagem de dados
 - Diversidade e inclusão em tecnologia
+- CRUD SQL
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -186,6 +187,8 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 - Não sei nada sobre modelagem de dados
 
+- Sei que a linguagem SQL é uma linguagem de consulta usada para mexer em banco de dados relacionais, esta linguagem tem o comando select que é usado para selecionar qual ou quais colunas de um determinado banco de dados serão usadas para construir queries, a cláusula WHERE para filtrar o dados que serão mostrados de acordo com o parâmetro que o programador passou, que os dados mostrados podem ser organizados com a cláusula ORDER BY, o LIMIT é usado para mostrar uma quantidade determinada de dados de acordo com o que foi passado, a cláusula offset omite os resultados e o select pode ser usado com a cláusula distinct para retornar os registros de uma tabela sem duplicidade
+
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 - Quero aprender mais sobre ele, como usá-lo e como vamos integrar isso nas API's que criamos
@@ -198,10 +201,14 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 - Quero aprender o que é modelagem de dados e como vamos implementar isso ao banco de dados
 
+- Gostaria de saber o que é CRUD e outros comandos ou cláusulas usadas no SQL, que poderão facilitar o uso do banco de dados
+
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 - Na aula aprendi que o docker é uma ferramenta que empacota e isola aplicações, cada aplicação que foi empacotada é chamada de contêiner e cada contêiner usa uma imagem, que seria um modelo das bibliotecas e dependências que serão usadas naquele contêiner. O docker compose é usado para executar aplicativos com vários contêineres, além dele facilitar o gerenciamento de serviços, redes e volumes em um arquivo. Os volumes são mecanismos usados para que os dados gerados pelos contêineres não sejam perdidos. Além disso também aprendi a criar um contêiner, pausar, iniciar, deletar e ver quais contêineres estão ou não sendo utilizados, tudo pelo terminal ou pelo próprio docker desktop
 
 - Aprendi que existem dois tipos de banco de dados, o relacional e o não relacional. O relacional são banco de dados baseados em tabelas e tem foco na consistência dos dados, o não relacional são baseados em documentos e são focados em performance. Aprendi também o que é uma linguagem SQL e que essa lingaugem é usada para interagir com o banco de dados, pode ser aplicada em vários SGBD's como PostgreSQL, MySQL, Oracle, entre outros, a base da linguagem é a mesma para todos os banco de dados relacionais, porém cada SGBD tem sua implementação específica e o código do SQL que é escrito é chamado de query
+
+- CRUD representa as operações de manipulação de dados em uma tabela: create(criar), read(ler), update(atualização) e delete(deletar). Insert seria o creat, ele serve para criar registros em uma tabela e para informar a tabela que vai receber os novos dados, usamos o comando INTO, além disso para inserir os dados, precisamos informar em qual coluna esse dado será inserido e seus valores. Exemplo: insert into usuarios(nome,emaiol,idade) values ("Lucas","lucas@email.com",19). O select seria o read, esse comando serve para retornar os registros da tabela. O update é um comando que serve para atualizar uma ou mais colunas de um mais registros, mas é preciso passar uma condição para que os demais registros não sejam afetados. Exemplo : update produtos set nome = 'casaco', preco = 6000 where id = 1. Por fim o DELETE, ele vai excluir registros de uma tabela e assim como o update, é preciso informar uma condição, ou todos os registros serão apagados e caso o registro tenha algum relacionamento com outra tabela é importante que o relacionamento seja excluído antes para depois excluir o registro. Exemplos: delete from produtos where id = 4
 
 </details>
