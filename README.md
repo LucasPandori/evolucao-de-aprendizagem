@@ -170,7 +170,7 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 - API REST são restrições de arquitetura que podem ser usadas para construir uma API. Essas restrições incluem operações padronizadas como os verbos GET ( sem requisições e é usado para devolver algo), POST (este verbo é usado quando se deseja criar alguma coisa, como cadastrar um novo usuário ), PUT ( este verbo é usado para atualizar completamente algo ) , PATCH ( este verbo é parecido com o verbo PUT, porém com a diferença que ele serve para atualizar algo parcialmente ) e DELETE ( serve para quando se quer deletar algo ).JSON é uma notação baseada em JavaScript e ele serve para transportar dados na web, esse tipo de formato é usado para enviar a resposta com os dados.
 
-- 
+- Por conta das imersões que tinha feito antes, eu já tinha conhecimento dos assuntos que foram abordados na aula, mas foi bom rever essa aula para refrescar minha memória sobre tais assuntos e ver diferentes opiniões e experiências de outros alunos
 
 </details>
 
