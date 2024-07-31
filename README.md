@@ -112,7 +112,7 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 - No comecço do curso eu usei um pouco o GitHub não só para entregar atividades, mas também para aprender um pouco mais dessa plataforma, então conheço algumas funcionalidades do GitHub, como criar repositórios e mexer em algumas partes do perfil
   
-- Na imersão, por ter aprendido API, aprendi também a criar controladores, rotas e intermediários, porém não foi tão aprofundado
+- Na imersão, por ter aprendido API, aprendi também a criar controladores, rotas, intermediários e a como testar uma API pelo thunder Client
 
 - Não sei nada sobre API REST
 
