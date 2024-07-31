@@ -110,8 +110,8 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 - Por conta da imersão eu ja sabia subir uma API, usando o express, com suas funcionalidades simples de cadastrar, listar, excluir e editar
 
-- No comecço do curso eu usei um pouco o GitHub não só para entregar atividades, mas também para aprender um pouco mais dessa plataforma, então conheço algumas funcionalidades do GitHub, como criar repositórios, mexer em algumas partes do perfil e a importância de ter um github e postar algumas coisas sobre o que você está aprendendo e alguns trabalhos seus
-
+- No comecço do curso eu usei um pouco o GitHub não só para entregar atividades, mas também para aprender um pouco mais dessa plataforma, então conheço algumas funcionalidades do GitHub, como criar repositórios e mexer em algumas partes do perfil
+  
 - Na imersão, por ter aprendido API, aprendi também a criar controladores, rotas e intermediários, porém não foi tão aprofundado
 
 - Não sei nada sobre API REST
