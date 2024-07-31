@@ -160,6 +160,18 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
+- Nesta aula aprendi a importar módulos, como por exemplo, importar uma função que está em um arquivo para outro arquivo ( import { soma } from './arquivo1' ). Também configuramos o GIT, aprendi a dar commits, a criar testes com o jest para testar os códigos e saber o problema ao invés de ficar procurando pelo código, a criar scripts do npm e algumas configurações do tsconfig.
+
+- Nesta aula descobri um novo recurso que é o arquivo ".gitignore" que serve para colocar nome de arquivos que vc deseja que sejam ignorados. Também aprendi a criar um servidor com express usando o Typescript e descobri que  existem algumas diferenças como ter que tipar a requisição e a resposta ( req: Request, res: Response ). Por fim aprendemos sobre variáveis de ambiente do node.js, essas variáveis são criadas em um arquivo chamado ".env" nesse arquivo o programador pode colocar a porta que a API irá usar ao invés de deixar no meio do código
+
+- Aprendi a importância de ter um github e postar algumas coisas sobre o que você está aprendendo e principalmente  alguns trabalhos seus, para o recrutadores verem com seus próprios olhos o que você consegue fazer. Além disso, descobri alguns códigos para personalizar o perfil e qual a melhor forma de personalizá-lo
+
+- Nesta aula foi apresentado uma ferramenta chamada nodemon, que eu não conhecia, por essa ferramenta eu posso rodar a API de uma forma mais simples e fazer modificações e reiniciar automaticamente a API, ao invés de ter que derrubar a API e subir de novo. Para isso tenho que ir no arquivo package.json, ir nos scripts e criar um script o comando "nodemon --exec ts-node nome_da_pasta/nome arquivo.ts". Porém esse script é usado apenas como dependência de desenvolvedor então só pode ser usado com os arquivos Typescript, nos arquivos JavaScript é usado o comando "node dist/index.js" (posso criar um script para esse comando também).
+
+- API REST são restrições de arquitetura que podem ser usadas para construir uma API. Essas restrições incluem operações padronizadas como os verbos GET ( sem requisições e é usado para devolver algo), POST (este verbo é usado quando se deseja criar alguma coisa, como cadastrar um novo usuário ), PUT ( este verbo é usado para atualizar completamente algo ) , PATCH ( este verbo é parecido com o verbo PUT, porém com a diferença que ele serve para atualizar algo parcialmente ) e DELETE ( serve para quando se quer deletar algo ).JSON é uma notação baseada em JavaScript e ele serve para transportar dados na web, esse tipo de formato é usado para enviar a resposta com os dados.
+
+- 
+
 </details>
 
 <details>
