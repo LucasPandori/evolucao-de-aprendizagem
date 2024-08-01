@@ -186,6 +186,7 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 - Modelagem de dados
 - Diversidade e inclusão em tecnologia
 - CRUD SQL
+- Agrupamento e Relacionamentos entre tabelas
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -201,6 +202,8 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 - Sei que a linguagem SQL é uma linguagem de consulta usada para mexer em banco de dados relacionais, esta linguagem tem o comando select que é usado para selecionar qual ou quais colunas de um determinado banco de dados serão usadas para construir queries, a cláusula WHERE para filtrar o dados que serão mostrados de acordo com o parâmetro que o programador passou, que os dados mostrados podem ser organizados com a cláusula ORDER BY, o LIMIT é usado para mostrar uma quantidade determinada de dados de acordo com o que foi passado, a cláusula offset omite os resultados e o select pode ser usado com a cláusula distinct para retornar os registros de uma tabela sem duplicidade
 
+- Até agora só sei modelar tabelas com o Navicat, criar tabelas no Beekeeper e usar comandos para criar, listar, deletar e editar os registros na tabela.
+
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 - Quero aprender mais sobre ele, como usá-lo e como vamos integrar isso nas API's que criamos
@@ -215,6 +218,8 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 - Gostaria de saber o que é CRUD e outros comandos ou cláusulas usadas no SQL, que poderão facilitar o uso do banco de dados
 
+- Nesta aula eu espero aprender a relacionar tabelas e como isso pode me ajudar na criação de projetos
+
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 - Na aula aprendi que o docker é uma ferramenta que empacota e isola aplicações, cada aplicação que foi empacotada é chamada de contêiner e cada contêiner usa uma imagem, que seria um modelo das bibliotecas e dependências que serão usadas naquele contêiner. O docker compose é usado para executar aplicativos com vários contêineres, além dele facilitar o gerenciamento de serviços, redes e volumes em um arquivo. Os volumes são mecanismos usados para que os dados gerados pelos contêineres não sejam perdidos. Além disso também aprendi a criar um contêiner, pausar, iniciar, deletar e ver quais contêineres estão ou não sendo utilizados, tudo pelo terminal ou pelo próprio docker desktop
@@ -222,5 +227,7 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 - Aprendi que existem dois tipos de banco de dados, o relacional e o não relacional. O relacional são banco de dados baseados em tabelas e tem foco na consistência dos dados, o não relacional são baseados em documentos e são focados em performance. Aprendi também o que é uma linguagem SQL e que essa lingaugem é usada para interagir com o banco de dados, pode ser aplicada em vários SGBD's como PostgreSQL, MySQL, Oracle, entre outros, a base da linguagem é a mesma para todos os banco de dados relacionais, porém cada SGBD tem sua implementação específica e o código do SQL que é escrito é chamado de query
 
 - CRUD representa as operações de manipulação de dados em uma tabela: create(criar), read(ler), update(atualização) e delete(deletar). Insert seria o create, ele serve para criar registros em uma tabela e para informar a tabela que vai receber os novos dados, usamos o comando INTO, além disso para inserir os dados, precisamos informar em qual coluna esse dado será inserido e seus valores. Exemplo: insert into usuarios(nome,emaiol,idade) values ("Lucas","lucas@email.com",19). O select seria o read, esse comando serve para retornar os registros da tabela. O update é um comando que serve para atualizar uma ou mais colunas de um ou mais registros, mas é preciso passar uma condição para que os demais registros não sejam afetados. Exemplo : update produtos set nome = 'casaco', preco = 6000 where id = 1. Por fim o DELETE, ele vai excluir registros de uma tabela e assim como o update, é preciso informar uma condição, ou todos os registros serão apagados e caso o registro tenha algum relacionamento com outra tabela é importante que o relacionamento seja excluído antes para depois excluir o registro. Exemplos: delete from produtos where id = 4
+
+- Aprendi sobre funções de agregação, essas funções permitem obter informações resumidas de uma tabela, como média, soma, mínimo, máximo, contagem, entre outros. A função sum vai somar os valores de uma coluna, o count conta o número de linhas em uma tabela (select count(id) from usuarios), avg vai calcular a média dos valores (select avg(idade) from usuarios), o min retorna o menor valor (select min(idade) from usuarios) e o max retorna o maior valor (select max(idade) from usuarios). Também aprendi sobre o comando GROUP BY, este comando agrupa linhas em uma tabela e ele é usado em conjunto com as funções de agregação. Sobre o relacionamento entre tabelas, eu entendi que um banco de dados relacional tem a proposta de facilitar a organização dos dados, além de ser mais seguro e garantir uma consistência de dados. Também foi dito sobre chaves primárias, que são colunas que identifcam unicamente registros em uma tabela, chaves estrangeiras,são colunas em uma tabela que se referem a uma chave primária em outra tabela e para que um relacionamento entre duas tabelas aconteça é preciso fazer uma ligação entre elas por meio dessas chaves. Também foi dito sobre os três relacionamentos possíveis entre tabelas: relacionamento 1:1 acontece quando um registro de uma tabela se relaciona com um e apenas um registro de outra tabela; relacionamento 1:N acontece quando um registro de uma tabela se relaciona com zero, um ou mais registros de outra tabela; relacionamento N:N acontece quando muitos registros de uma tabela se relaciona com zero, um ou vários registros de outra tabela. E por fim a cláusula JOIN, que serve para combinar linhas de duas ou mais tabelas com base em uma condição de correspondência que seria a cláusula ON. Existem diferentes tipos de JOIN, entre eles, INNER JOIN: retorna apenas as linhas que têm valores correspondentes em ambas as tabelas; LEFT JOIN: Retorna todas as linhas da tabela à esquerda (primeira tabela referenciada na query) e as linhas correspondentes da tabela à direita (segunda tabela referenciada na query) e caso não haja correspondência, será retornado o valor null ; RIGHT JOIN: Retorna todas as linhas da tabela à direita  e as linhas correspondentes da tabela à esquerda e caso não haja correspondência o valor retornado será null
 
 </details>
