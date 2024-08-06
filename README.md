@@ -172,6 +172,21 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 - Por conta das imersões que tinha feito antes, eu já tinha conhecimento dos assuntos que foram abordados na aula, mas foi bom rever essa aula para refrescar minha memória sobre tais assuntos e ver diferentes opiniões e experiências de outros alunos
 
+- É um paradigma que consiste em implementar estruturas que representam entidades do mundo real, além de permitir o desenvolvimento ágil de programas. A orientação a objeto tem quatro pilares: a abstração que simplifica um problema focando nos aspectos essenciais; o encapsulamento que protege os detalhes expondo apenas o necessário; a herança reutiliza estruturas para subclasses; polimorfismo que permite que uma mesma estrutura tenha diferentes comportamentos. Também foi dito sobre as classes, que são modelos ou características de um objeto para que ele seja criado. exemplo de classe: 
+class Carro{ 
+cor: string
+marca: string
+modelo: string
+ano: number
+} 
+Para criar uma variável usando a classe é preciso que depois de criar a variável chamar a classe com a palavra reservada "new" na frente e passar um parênteses com os valores: const nome_variável = new Carro("preto","Toyota","Yaris",2024). Outro assunto que foi abordado na aula foi o método construtor, que serve para construir objetos a partir de uma classe e permitindo uma melhor organização do código, e outros métodos que podem ser passados na classe para realizar alguma tarefa.
+
+- Nesta aula conheci sites e documentações novos para mim e foram passadas dicas para procurar, de forma mais rápida e eficiente, sobre os assuntos que você está procurando em uma documentação.
+
+- Até agora os código que fizemos foram síncronos e na aula de hoje foi nos ensinado como montar código assíncronos , que são códigos que são executados de maneira não linear, executando as tarefas conforme necessário. Para criar uma função assíncrona basta colocar a palavra async antes de function: async function teste1(){}. Após ser feito isso sua função se torna uma função assíncrona e permite o programador usar funções para criar um código assíncrono, como o "promises", que como diz o nome é uma promessa, essa promises pode não ser executada ou vai ser executada depois que toda a programação síncrona seja feita. Outros códigos passados que são importantes, além da promisse, são os blocos then, catch, finally e o await. O then serve para tratar uma promises, o catch serve para quando a promises não for cumprida ao invés de dar erro no código ele vai capturar o erro e mostrar a mensagem que o programador escolher, o finally manda uma mensagem no final do código. Mesmo sendo possível usar o then ele pode causar problemas dependendo da aplicação que ele está sendo usado, então ao invés de usar o then foi aconselhado que usássemos o await. O await faz a execução de uma função async pausar, para esperar pelo retorno da promises para ai sim continuar a execução. Por fim foi passado o file system node, que são métodos para escrever, editar, ler entre outros métodos usados para mexer em arquivos, como exemplo o método ".readFile('./bancodedados')", que serve para ler o arquivo. Com esses comandos podemos simular melhor um banco de dados real.
+
+- Infelizmente os assuntos abordados nesta aula já tinham sido contemplados nas aulas das imersões, então não absorvi nada de novo, porém foi bom rever a aula tanto para ver a opinião de outras pessoas quanto para rever minhas atitudes e pensar se estou seguindo o caminho certo e ver o quanto evoluí desde a última aula.
+
 </details>
 
 <details>
