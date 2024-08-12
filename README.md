@@ -106,71 +106,71 @@ Outro método que aprendemos foi o método reduce, esse método permite fazer op
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-- Antes desta aula eu fazia testes via terminal, onde eu rodava o código e esperava o retorno e caso desse algum erro eu voltava para o código e tentava achar o erro
+- Antes desta aula eu fazia testes via terminal, onde eu rodava o código e esperava o retorno e caso desse algum erro eu voltava para o código e tentava achar o erro.
 
-- Por conta da imersão eu ja sabia subir uma API, usando o express, com suas funcionalidades simples de cadastrar, listar, excluir e editar
+- Por conta da imersão eu ja sabia subir uma API, usando o express, com suas funcionalidades simples de cadastrar, listar, excluir e editar.
 
-- No comecço do curso eu usei um pouco o GitHub não só para entregar atividades, mas também para aprender um pouco mais dessa plataforma, então conheço algumas funcionalidades do GitHub, como criar repositórios e mexer em algumas partes do perfil
+- No comecço do curso eu usei um pouco o GitHub não só para entregar atividades, mas também para aprender um pouco mais dessa plataforma, então conheço algumas funcionalidades do GitHub, como criar repositórios e mexer em algumas partes do perfil.
   
-- Na imersão, por ter aprendido API, aprendi também a criar controladores, rotas, intermediários e a como testar uma API pelo thunder Client
+- Na imersão, por ter aprendido API, aprendi também a criar controladores, rotas, intermediários e a como testar uma API pelo thunder Client.
 
-- Não sei nada sobre API REST
+- Não sei nada sobre API REST.
 
-- Em uma das imersões que fiz tive uma aula de comunicação, onde aprendi o quão importante é se comunicar corretamente, tanto para não ocorrer desentendimentos quanto para não haver brigas entre as pessoas
+- Em uma das imersões que fiz tive uma aula de comunicação, onde aprendi o quão importante é se comunicar corretamente, tanto para não ocorrer desentendimentos quanto para não haver brigas entre as pessoas.
 
-- Não sei sobre orientação a objetos
+- Não sei sobre orientação a objetos.
 
-- Por conta da faculdade eu aprendi a pesquisar  e a ler documentações e artigos cientificos na internet e que tanto artigos cientificos quanto documentações são importantes para tirar dúvidas e/ou obter novos conhecimentos de uma forma mais rápida, fácil e segura do que ficar procurando por sites ou blogs aleatórios na internet
+- Por conta da faculdade eu aprendi a pesquisar  e a ler documentações e artigos cientificos na internet e que tanto artigos cientificos quanto documentações são importantes para tirar dúvidas e/ou obter novos conhecimentos de uma forma mais rápida, fácil e segura do que ficar procurando por sites ou blogs aleatórios na internet.
 
-- Sei um pouco sobre assincronismo por terem ensiando esse assunto na faculdade, porém só sei a parte teórica de como funciona, não sei como colocar isso no código
+- Sei um pouco sobre assincronismo por terem ensiando esse assunto na faculdade, porém só sei a parte teórica de como funciona, não sei como colocar isso no código.
 
-- Por conta das imersões tive essa aula duas vezes e foi incrivel, pois nas duas aulas eu aprendi coisas novas e me fizeram pensar de uma forma diferente, me mostrando uma nova maneira de agir e por conta disso comecei a trabalhar minha inteligencia emocional e a me autoanálisar para poder melhorar como indivíduo, como por exemplo ser flexivel e não me estressar quando as coisas não saírem como planejado e conseguir me adequar as mudanças
+- Por conta das imersões tive essa aula duas vezes e foi incrivel, pois nas duas aulas eu aprendi coisas novas e me fizeram pensar de uma forma diferente, me mostrando uma nova maneira de agir e por conta disso comecei a trabalhar minha inteligencia emocional e a me autoanálisar para poder melhorar como indivíduo, como por exemplo ser flexivel e não me estressar quando as coisas não saírem como planejado e conseguir me adequar as mudanças.
 
-- Não sei nada sobre herança e polimorfismo, mas pelo nome imagino que seja algum método de pegar alguma tipagem ou alguma caracteristica de algo e passar para outro
+- Não sei nada sobre herança e polimorfismo, mas pelo nome imagino que seja algum método de pegar alguma tipagem ou alguma caracteristica de algo e passar para outro.
 
 - Sei que a tecnologia evolue bem rápido então temos que sempre estar estudando para não ficar para trás e que a área da tecnologia é muito vasta, então não existe uma tecnologia melhor ou uma linguagem de programação melhor, pois cada tecnologia ou linguagem tem sua oportunidade e seu impacto e que se destaca melhor que as outras em diferentes áreas e funcionalidades. Por exemplo tem linguagens que são melhores para orientação a objetos do que outras, mas isso não significa que essas outras sejam ruins, elas podem ser melhores para outros usos.
 
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
-- Uma maneira mais fácil e rápida de fazer os testes e também uma forma de eu descobrir em que parte do código está o erro, ao invés de ficar procurando
+- Uma maneira mais fácil e rápida de fazer os testes e também uma forma de eu descobrir em que parte do código está o erro, ao invés de ficar procurando.
 
-- Um método novo de subir API ou configurações que não tinhamos aprendido na imersão
+- Um método novo de subir API ou configurações que não tinhamos aprendido na imersão.
 
-- Quero aprender outras funcionalidades do GitHub, a montar um perfil bom e interessante, saber criar um readme mais bonito e outras funcionalidades
+- Quero aprender outras funcionalidades do GitHub, a montar um perfil bom e interessante, saber criar um readme mais bonito e outras funcionalidades.
 
-- Espero me aprofundar mais nessa parte para ter mais conhecimento sobre outros tipos de intermediários e controladores, além de aprender a separá-los corretamente em arquivos diferentes
+- Espero me aprofundar mais nessa parte para ter mais conhecimento sobre outros tipos de intermediários e controladores, além de aprender a separá-los corretamente em arquivos diferentes.
 
-- Gostaria de aprender o que é API REST e como isso pode me ajudar a criar API's
+- Gostaria de aprender o que é API REST e como isso pode me ajudar a criar API's.
 
-- Quero aprender um pouco mais sobre esse assunto e também como posso me comunicar melhor com as pessoas, para que não ocorra conflitos
+- Quero aprender um pouco mais sobre esse assunto e também como posso me comunicar melhor com as pessoas, para que não ocorra conflitos.
 
-- Pelo nome deduzi que tem algo haver com objetos, então espero aprender outros tipos de objetos ou uma nova maneira de criar objetos
+- Pelo nome deduzi que tem algo haver com objetos, então espero aprender outros tipos de objetos ou uma nova maneira de criar objetos.
 
-- Espero descobrir novos tipos de documentações e a como usar de uma forma melhor, pois ainda demoro para achar as coisas que estou procurando então espero receber dicas e aprender truques para encontrar a informação que estou procurando mais rápido
+- Espero descobrir novos tipos de documentações e a como usar de uma forma melhor, pois ainda demoro para achar as coisas que estou procurando então espero receber dicas e aprender truques para encontrar a informação que estou procurando mais rápido.
 
-- Quero aprender a como implementar um código assincrono, como mexer (ler, escrever, editar, excluir) em arquivos de texto pelo código e como simular melhor um banco de dados usando essa parte de leitura e ewcrita em arquivos
+- Quero aprender a como implementar um código assincrono, como mexer (ler, escrever, editar, excluir) em arquivos de texto pelo código e como simular melhor um banco de dados usando essa parte de leitura e ewcrita em arquivos.
 
-- Gostaria de aprender novos assuntos que não foram abordados nas imersões e talvez conseguir desenvolver mais meu autoconhecimento e a inteligência emocional
+- Gostaria de aprender novos assuntos que não foram abordados nas imersões e talvez conseguir desenvolver mais meu autoconhecimento e a inteligência emocional.
 
-- Gostaria de aprender o que é herança e polimorfismo e saber como isso pode me auxiliar na programação
+- Gostaria de aprender o que é herança e polimorfismo e saber como isso pode me auxiliar na programação.
 
-- Gostaria de aprender melhor sobre algumas tecnologias e seus usos e aprender sobre novas tecnologias e suas tendências e impactos
+- Gostaria de aprender melhor sobre algumas tecnologias e seus usos e aprender sobre novas tecnologias e suas tendências e impactos.
 
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 - Nesta aula aprendi a importar módulos, como por exemplo, importar uma função que está em um arquivo para outro arquivo ( import { soma } from './arquivo1' ). Também configuramos o GIT, aprendi a dar commits, a criar testes com o jest para testar os códigos e saber o problema ao invés de ficar procurando pelo código, a criar scripts do npm e algumas configurações do tsconfig.
 
-- Nesta aula descobri um novo recurso que é o arquivo ".gitignore" que serve para colocar nome de arquivos que vc deseja que sejam ignorados. Também aprendi a criar um servidor com express usando o Typescript e descobri que  existem algumas diferenças como ter que tipar a requisição e a resposta ( req: Request, res: Response ). Por fim aprendemos sobre variáveis de ambiente do node.js, essas variáveis são criadas em um arquivo chamado ".env" nesse arquivo o programador pode colocar a porta que a API irá usar ao invés de deixar no meio do código
+- Nesta aula descobri um novo recurso que é o arquivo ".gitignore" que serve para colocar nome de arquivos que vc deseja que sejam ignorados. Também aprendi a criar um servidor com express usando o Typescript e descobri que  existem algumas diferenças como ter que tipar a requisição e a resposta ( req: Request, res: Response ). Por fim aprendemos sobre variáveis de ambiente do node.js, essas variáveis são criadas em um arquivo chamado ".env" nesse arquivo o programador pode colocar a porta que a API irá usar ao invés de deixar no meio do código.
 
-- Aprendi a importância de ter um github e postar algumas coisas sobre o que você está aprendendo e principalmente  alguns trabalhos seus, para o recrutadores verem com seus próprios olhos o que você consegue fazer. Além disso, descobri alguns códigos para personalizar o perfil e qual a melhor forma de personalizá-lo
+- Aprendi a importância de ter um github e postar algumas coisas sobre o que você está aprendendo e principalmente  alguns trabalhos seus, para o recrutadores verem com seus próprios olhos o que você consegue fazer. Além disso, descobri alguns códigos para personalizar o perfil e qual a melhor forma de personalizá-lo.
 
 - Nesta aula foi apresentado uma ferramenta chamada nodemon, que eu não conhecia, por essa ferramenta eu posso rodar a API de uma forma mais simples e fazer modificações e reiniciar automaticamente a API, ao invés de ter que derrubar a API e subir de novo. Para isso tenho que ir no arquivo package.json, ir nos scripts e criar um script o comando "nodemon --exec ts-node nome_da_pasta/nome arquivo.ts". Porém esse script é usado apenas como dependência de desenvolvedor então só pode ser usado com os arquivos Typescript, nos arquivos JavaScript é usado o comando "node dist/index.js" (posso criar um script para esse comando também).
 
 - API REST são restrições de arquitetura que podem ser usadas para construir uma API. Essas restrições incluem operações padronizadas como os verbos GET ( sem requisições e é usado para devolver algo), POST (este verbo é usado quando se deseja criar alguma coisa, como cadastrar um novo usuário ), PUT ( este verbo é usado para atualizar completamente algo ) , PATCH ( este verbo é parecido com o verbo PUT, porém com a diferença que ele serve para atualizar algo parcialmente ) e DELETE ( serve para quando se quer deletar algo ).JSON é uma notação baseada em JavaScript e ele serve para transportar dados na web, esse tipo de formato é usado para enviar a resposta com os dados.
 
-- Por conta das imersões que tinha feito antes, eu já tinha conhecimento dos assuntos que foram abordados na aula, mas foi bom rever essa aula para refrescar minha memória sobre tais assuntos e ver diferentes opiniões e experiências de outros alunos
+- Por conta das imersões que tinha feito antes, eu já tinha conhecimento dos assuntos que foram abordados na aula, mas foi bom rever essa aula para refrescar minha memória sobre tais assuntos e ver diferentes opiniões e experiências de outros alunos.
 
 - É um paradigma que consiste em implementar estruturas que representam entidades do mundo real, além de permitir o desenvolvimento ágil de programas. A orientação a objeto tem quatro pilares: a abstração que simplifica um problema focando nos aspectos essenciais; o encapsulamento que protege os detalhes expondo apenas o necessário; a herança reutiliza estruturas para subclasses; polimorfismo que permite que uma mesma estrutura tenha diferentes comportamentos. Também foi dito sobre as classes, que são modelos ou características de um objeto para que ele seja criado. exemplo de classe: 
 class Carro{ 
@@ -207,60 +207,65 @@ Para criar uma variável usando a classe é preciso que depois de criar a variá
 - Marca pessoal e plano de carreira
 - Conexão Node.js com PostgreSQL
 - Autenticação e criptografia
+- Integração com API de terceiros
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-- Nunca mexi no docker, então não sei quase nada, a única coisa que eu sei é que vamos usá-lo para mexer em um banco de dados real
+- Nunca mexi no docker, então não sei quase nada, a única coisa que eu sei é que vamos usá-lo para mexer em um banco de dados real.
 
-- Sei que o banco de dados é um local onde podemos armazenar e gerenciar dados de forma segura
+- Sei que o banco de dados é um local onde podemos armazenar e gerenciar dados de forma segura.
 
-- Metodologias ágeis, são métodos que um grupo ou empresa adota para realizar suas tarefas de forma mais organizada e eficiente, acelerando a entrega de um projeto
+- Metodologias ágeis, são métodos que um grupo ou empresa adota para realizar suas tarefas de forma mais organizada e eficiente, acelerando a entrega de um projeto.
 
-- Sei que ela é uma lingaugem de consulta usada para mexer em bancos de dados relacionais, a base da lingaugem é a mesma para todos os bancos de dados relacionais e seu código é chamado de query
+- Sei que ela é uma lingaugem de consulta usada para mexer em bancos de dados relacionais, a base da lingaugem é a mesma para todos os bancos de dados relacionais e seu código é chamado de query.
 
-- Não sei nada sobre modelagem de dados
+- Não sei nada sobre modelagem de dados.
 
-- Sei que a linguagem SQL é uma linguagem de consulta usada para mexer em banco de dados relacionais, esta linguagem tem o comando select que é usado para selecionar qual ou quais colunas de um determinado banco de dados serão usadas para construir queries, a cláusula WHERE para filtrar o dados que serão mostrados de acordo com o parâmetro que o programador passou, que os dados mostrados podem ser organizados com a cláusula ORDER BY, o LIMIT é usado para mostrar uma quantidade determinada de dados de acordo com o que foi passado, a cláusula offset omite os resultados e o select pode ser usado com a cláusula distinct para retornar os registros de uma tabela sem duplicidade
+- Sei que a linguagem SQL é uma linguagem de consulta usada para mexer em banco de dados relacionais, esta linguagem tem o comando select que é usado para selecionar qual ou quais colunas de um determinado banco de dados serão usadas para construir queries, a cláusula WHERE para filtrar o dados que serão mostrados de acordo com o parâmetro que o programador passou, que os dados mostrados podem ser organizados com a cláusula ORDER BY, o LIMIT é usado para mostrar uma quantidade determinada de dados de acordo com o que foi passado, a cláusula offset omite os resultados e o select pode ser usado com a cláusula distinct para retornar os registros de uma tabela sem duplicidade.
 
 - Até agora só sei modelar tabelas com o Navicat, criar tabelas no Beekeeper e usar comandos para criar, listar, deletar e editar os registros na tabela.
 
-- Eu ja montei um plano de carreira básico, com o que eu quero trabalhar e alguns cursos que preciso fazer para conseguir atuar na área
+- Eu ja montei um plano de carreira básico, com o que eu quero trabalhar e alguns cursos que preciso fazer para conseguir atuar na área.
 
-- Infelizmente não sei nada sobre como conectar o node com o banco de dados
+- Infelizmente não sei nada sobre como conectar o node com o banco de dados.
 
 - Ja fizemos criptografias no projeto anterior, porém foi manualmente, onde criamos uma função que concatenava duas strings com uma informação do usuário, não usamos nenhuma biblioteca nem nada. E sobre autenticação, também criamos tokens de forma manual, onde juntavamos uma frase secreta com o id do usuário.
 
+- Ainda não sei nada sobre como integrar a API de terceiros com a minha API.
+
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
-- Quero aprender mais sobre ele, como usá-lo e como vamos integrar isso nas API's que criamos
+- Quero aprender mais sobre ele, como usá-lo e como vamos integrar isso nas API's que criamos.
 
-- Quero aprender sobre como ele funciona realmente e criar um banco de dados real, pois até agora só simulamos um
+- Quero aprender sobre como ele funciona realmente e criar um banco de dados real, pois até agora só simulamos um.
 
-- Gostaria de aprender quais metodologias existem, além do kanban e do scrum, e quais são mais usadas na área de programção
+- Gostaria de aprender quais metodologias existem, além do kanban e do scrum, e quais são mais usadas na área de programção.
 
-- Quero aprender os códigos que são usados e se ela será usada no VScode ou em outro editor de código
+- Quero aprender os códigos que são usados e se ela será usada no VScode ou em outro editor de código.
 
-- Quero aprender o que é modelagem de dados e como vamos implementar isso ao banco de dados
+- Quero aprender o que é modelagem de dados e como vamos implementar isso ao banco de dados.
 
-- Gostaria de saber o que é CRUD e outros comandos ou cláusulas usadas no SQL, que poderão facilitar o uso do banco de dados
+- Gostaria de saber o que é CRUD e outros comandos ou cláusulas usadas no SQL, que poderão facilitar o uso do banco de dados.
 
-- Nesta aula eu espero aprender a relacionar tabelas e como isso pode me ajudar na criação de projetos
+- Nesta aula eu espero aprender a relacionar tabelas e como isso pode me ajudar na criação de projetos.
 
-- Quero aprender o que é marca pessoal e uma melhor forma de montar meu plano de carreira
+- Quero aprender o que é marca pessoal e uma melhor forma de montar meu plano de carreira.
 
-- Espero aprender a como conectar meu código ao banco de dados para poder usar o banco de dados nos meus projetos ao invés de simular um banco de dados
+- Espero aprender a como conectar meu código ao banco de dados para poder usar o banco de dados nos meus projetos ao invés de simular um banco de dados.
 
 - Quero aprender a como criptografar e autenticar usando bibliotecas, para deixar a criptografia e a autenticação mais segura e confiável.
 
+- Espero aprender a como integrar as API´s de outras pessoas com a minha, para poder usá-las algum dia, como por exemplo, usar a API do chat GPT neste desafio do módulo 4.
+
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-- Na aula aprendi que o docker é uma ferramenta que empacota e isola aplicações, cada aplicação que foi empacotada é chamada de contêiner e cada contêiner usa uma imagem, que seria um modelo das bibliotecas e dependências que serão usadas naquele contêiner. O docker compose é usado para executar aplicativos com vários contêineres, além dele facilitar o gerenciamento de serviços, redes e volumes em um arquivo. Os volumes são mecanismos usados para que os dados gerados pelos contêineres não sejam perdidos. Além disso também aprendi a criar um contêiner, pausar, iniciar, deletar e ver quais contêineres estão ou não sendo utilizados, tudo pelo terminal ou pelo próprio docker desktop
+- Na aula aprendi que o docker é uma ferramenta que empacota e isola aplicações, cada aplicação que foi empacotada é chamada de contêiner e cada contêiner usa uma imagem, que seria um modelo das bibliotecas e dependências que serão usadas naquele contêiner. O docker compose é usado para executar aplicativos com vários contêineres, além dele facilitar o gerenciamento de serviços, redes e volumes em um arquivo. Os volumes são mecanismos usados para que os dados gerados pelos contêineres não sejam perdidos. Além disso também aprendi a criar um contêiner, pausar, iniciar, deletar e ver quais contêineres estão ou não sendo utilizados, tudo pelo terminal ou pelo próprio docker desktop.
 
-- Aprendi que existem dois tipos de banco de dados, o relacional e o não relacional. O relacional são banco de dados baseados em tabelas e tem foco na consistência dos dados, o não relacional são baseados em documentos e são focados em performance. Aprendi também o que é uma linguagem SQL e que essa lingaugem é usada para interagir com o banco de dados, pode ser aplicada em vários SGBD's como PostgreSQL, MySQL, Oracle, entre outros, a base da linguagem é a mesma para todos os banco de dados relacionais, porém cada SGBD tem sua implementação específica e o código do SQL que é escrito é chamado de query
+- Aprendi que existem dois tipos de banco de dados, o relacional e o não relacional. O relacional são banco de dados baseados em tabelas e tem foco na consistência dos dados, o não relacional são baseados em documentos e são focados em performance. Aprendi também o que é uma linguagem SQL e que essa lingaugem é usada para interagir com o banco de dados, pode ser aplicada em vários SGBD's como PostgreSQL, MySQL, Oracle, entre outros, a base da linguagem é a mesma para todos os banco de dados relacionais, porém cada SGBD tem sua implementação específica e o código do SQL que é escrito é chamado de query.
 
-- CRUD representa as operações de manipulação de dados em uma tabela: create(criar), read(ler), update(atualização) e delete(deletar). Insert seria o create, ele serve para criar registros em uma tabela e para informar a tabela que vai receber os novos dados, usamos o comando INTO, além disso para inserir os dados, precisamos informar em qual coluna esse dado será inserido e seus valores. Exemplo: insert into usuarios(nome,emaiol,idade) values ("Lucas","lucas@email.com",19). O select seria o read, esse comando serve para retornar os registros da tabela. O update é um comando que serve para atualizar uma ou mais colunas de um ou mais registros, mas é preciso passar uma condição para que os demais registros não sejam afetados. Exemplo : update produtos set nome = 'casaco', preco = 6000 where id = 1. Por fim o DELETE, ele vai excluir registros de uma tabela e assim como o update, é preciso informar uma condição, ou todos os registros serão apagados e caso o registro tenha algum relacionamento com outra tabela é importante que o relacionamento seja excluído antes para depois excluir o registro. Exemplos: delete from produtos where id = 4
+- CRUD representa as operações de manipulação de dados em uma tabela: create(criar), read(ler), update(atualização) e delete(deletar). Insert seria o create, ele serve para criar registros em uma tabela e para informar a tabela que vai receber os novos dados, usamos o comando INTO, além disso para inserir os dados, precisamos informar em qual coluna esse dado será inserido e seus valores. Exemplo: insert into usuarios(nome,emaiol,idade) values ("Lucas","lucas@email.com",19). O select seria o read, esse comando serve para retornar os registros da tabela. O update é um comando que serve para atualizar uma ou mais colunas de um ou mais registros, mas é preciso passar uma condição para que os demais registros não sejam afetados. Exemplo : update produtos set nome = 'casaco', preco = 6000 where id = 1. Por fim o DELETE, ele vai excluir registros de uma tabela e assim como o update, é preciso informar uma condição, ou todos os registros serão apagados e caso o registro tenha algum relacionamento com outra tabela é importante que o relacionamento seja excluído antes para depois excluir o registro. Exemplos: delete from produtos where id = 4.
 
-- Aprendi sobre funções de agregação, essas funções permitem obter informações resumidas de uma tabela, como média, soma, mínimo, máximo, contagem, entre outros. A função sum vai somar os valores de uma coluna, o count conta o número de linhas em uma tabela (select count(id) from usuarios), avg vai calcular a média dos valores (select avg(idade) from usuarios), o min retorna o menor valor (select min(idade) from usuarios) e o max retorna o maior valor (select max(idade) from usuarios). Também aprendi sobre o comando GROUP BY, este comando agrupa linhas em uma tabela e ele é usado em conjunto com as funções de agregação. Sobre o relacionamento entre tabelas, eu entendi que um banco de dados relacional tem a proposta de facilitar a organização dos dados, além de ser mais seguro e garantir uma consistência de dados. Também foi dito sobre chaves primárias, que são colunas que identifcam unicamente registros em uma tabela, chaves estrangeiras,são colunas em uma tabela que se referem a uma chave primária em outra tabela e para que um relacionamento entre duas tabelas aconteça é preciso fazer uma ligação entre elas por meio dessas chaves. Também foi dito sobre os três relacionamentos possíveis entre tabelas: relacionamento 1:1 acontece quando um registro de uma tabela se relaciona com um e apenas um registro de outra tabela; relacionamento 1:N acontece quando um registro de uma tabela se relaciona com zero, um ou mais registros de outra tabela; relacionamento N:N acontece quando muitos registros de uma tabela se relaciona com zero, um ou vários registros de outra tabela. E por fim a cláusula JOIN, que serve para combinar linhas de duas ou mais tabelas com base em uma condição de correspondência que seria a cláusula ON. Existem diferentes tipos de JOIN, entre eles, INNER JOIN: retorna apenas as linhas que têm valores correspondentes em ambas as tabelas; LEFT JOIN: Retorna todas as linhas da tabela à esquerda (primeira tabela referenciada na query) e as linhas correspondentes da tabela à direita (segunda tabela referenciada na query) e caso não haja correspondência, será retornado o valor null ; RIGHT JOIN: Retorna todas as linhas da tabela à direita  e as linhas correspondentes da tabela à esquerda e caso não haja correspondência o valor retornado será null
+- Aprendi sobre funções de agregação, essas funções permitem obter informações resumidas de uma tabela, como média, soma, mínimo, máximo, contagem, entre outros. A função sum vai somar os valores de uma coluna, o count conta o número de linhas em uma tabela (select count(id) from usuarios), avg vai calcular a média dos valores (select avg(idade) from usuarios), o min retorna o menor valor (select min(idade) from usuarios) e o max retorna o maior valor (select max(idade) from usuarios). Também aprendi sobre o comando GROUP BY, este comando agrupa linhas em uma tabela e ele é usado em conjunto com as funções de agregação. Sobre o relacionamento entre tabelas, eu entendi que um banco de dados relacional tem a proposta de facilitar a organização dos dados, além de ser mais seguro e garantir uma consistência de dados. Também foi dito sobre chaves primárias, que são colunas que identifcam unicamente registros em uma tabela, chaves estrangeiras,são colunas em uma tabela que se referem a uma chave primária em outra tabela e para que um relacionamento entre duas tabelas aconteça é preciso fazer uma ligação entre elas por meio dessas chaves. Também foi dito sobre os três relacionamentos possíveis entre tabelas: relacionamento 1:1 acontece quando um registro de uma tabela se relaciona com um e apenas um registro de outra tabela; relacionamento 1:N acontece quando um registro de uma tabela se relaciona com zero, um ou mais registros de outra tabela; relacionamento N:N acontece quando muitos registros de uma tabela se relaciona com zero, um ou vários registros de outra tabela. E por fim a cláusula JOIN, que serve para combinar linhas de duas ou mais tabelas com base em uma condição de correspondência que seria a cláusula ON. Existem diferentes tipos de JOIN, entre eles, INNER JOIN: retorna apenas as linhas que têm valores correspondentes em ambas as tabelas; LEFT JOIN: Retorna todas as linhas da tabela à esquerda (primeira tabela referenciada na query) e as linhas correspondentes da tabela à direita (segunda tabela referenciada na query) e caso não haja correspondência, será retornado o valor null ; RIGHT JOIN: Retorna todas as linhas da tabela à direita  e as linhas correspondentes da tabela à esquerda e caso não haja correspondência o valor retornado será null.
 
 - Durante nossa aula discutimos sobre marca pessoal, que é a sua imagem, visão de mercado, que é a leitura de diferentes cenários no mercado do trabalho, escolhendo o que é melhor para você e se você se identifica com a vaga, plano de carreira sendo um plano estratégico para chegar no seu objetivo e o PDI, um plano para desenvolvimento individual. Na aula também foi comentado sobre algumas áreas da tecnologia e as habilidades que são necessárias em cada área: Fintech tecnologia financeira (desenvolve produtos para receber lucros): pensamento crítico, comunicação, gestão de relacionamentos e precisão e atenção a detalhes; Edtech tecnologia educacional (desenvolvem produtos para educar): empatia, didática, colaboração e flexibilidade; healthtech tecnologia em saúde (empresas que desenvolvem tecnologias voltados para saúde): sensibilidade, colaboração interdisciplinar, comunicação, ética e confidencialidade; E-commerce (marketplaces - lojas online, tipo magazine, mercado-livre): orientação ao cliente, colaboração com marketing e vendas, resolução de problemas e criatividade; IOT (internet das coisas): colaboração interdisciplinar, pensamento crítico, comunicação, gestão de projetos; game development: criatividade e inovação, colaboração em equipe, gerenciamento de feedback, resolução de problemas; cybersecurity (segurança cibernética): pensamento analítico, comunicação, colaboração em equipe, gerenciamento de crises; Inteligência artificial: pensamento crítico, comunicação de resultados, colaboração multidisciplinar, adaptabilidade. Para montar um plano de carreira mais detalhado precisa ser definido seu objetivo principal, em quanto tempo você quer chegar lá, quais habilidades necessárias, o que você precisa desenvolver e onde você irá buscar esse desenvolvimento. Além disso conhecemos o 5W2H, que são cinco perguntas com a letra W (o que será feito, por que será feito, onde será feito, quando será feito e por que será feito) e outras duas perguntas com a letra H (como será feito e quanto custará fazer). Também exploramos tipos de carreiras como a carreira em Y e a carreira em W. A carreira em Y é um plano de carreira que abre duas possibilidades de promoções conforme seu perfil profissional, sendo elas para a parte técnica ou a gerencial. Já a carreira em W é um plano de carreira que permite que uma mesma pessoa possa seguir tanto pela vertente técnica quanto pela gerencial. Por fim o professor deu um conselho dizendo que ficar saindo e entrando em empregos diferentes pode acabar com sua imagem.
 
