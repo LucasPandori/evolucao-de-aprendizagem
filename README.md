@@ -187,6 +187,8 @@ Para criar uma variável usando a classe é preciso que depois de criar a variá
 
 - Infelizmente os assuntos abordados nesta aula já tinham sido contemplados nas aulas das imersões, então não absorvi nada de novo, porém foi bom rever a aula tanto para ver a opinião de outras pessoas quanto para rever minhas atitudes e pensar se estou seguindo o caminho certo e ver o quanto evoluí desde a última aula.
 
+- Aprendemos que herança é o nome que damos quando existe uma superclasse que possui métodos e atributos que são compartilhados com suas subclasses ( classes filhas ). Na herança também existem algumas regras como: cada subclasse pode ter seus métodos e atributos específicos, além dos métodos e atributos herdados; uma subclasse só consegue acessar métodos e atributos da superclasse caso sejam públicos ou protegidos, mas privado não; um método ou atributo protegido só pode ser acessado dentro da própria classe ou em uma subclasse. Polimorfismo é quando uma subclasse invoca um método existente em uma superclasse e mesmo tendo a mesma assinatura, resulta em um comportamento diferente. E assim como na herança, o polimorfismo tem suas regras, como: o polimorfismo é alcançado por meio da herança; os métodos nas subclasses devem ter o mesmo nome, tipo de retorno e lista de parâmetros que os métodos da superclasse; as interfaces podem definir um contrato que subclasses devem seguir, permitindo que objetos de subclasses diferentes, implementem a mesma interface, porém tratados de forma polimórfica. O exemplo que foi passado em aula para entender esse conceito foi o seguinte: Em um jogo de xadrez todas as pessoas se movem pelo tabuleiro, mas cada peça tem um tipo de movimento. Também aprendemos o bloco de try catch e o throw. O bloco try catch serve para tratar erros. Dentro do try é colocado o seu código que você criou, já dentro do catch você coloca a mensagem que irá aparecer para quando dar o erro retornar aquela mensagem ao invés de quebrar o código. Já o throw é usado para lançar alguma exceção definida pelo usuário, que seria lançar um erro para o catch caso algo que você esperava não viesse de alguma forma. Também é importante ressaltar que nada abaixo do throw vai ser executado.
+
 </details>
 
 <details>
@@ -204,6 +206,7 @@ Para criar uma variável usando a classe é preciso que depois de criar a variá
 - Agrupamento e Relacionamentos entre tabelas
 - Marca pessoal e plano de carreira
 - Conexão Node.js com PostgreSQL
+- Autenticação e criptografia
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -225,6 +228,8 @@ Para criar uma variável usando a classe é preciso que depois de criar a variá
 
 - Infelizmente não sei nada sobre como conectar o node com o banco de dados
 
+- Ja fizemos criptografias no projeto anterior, porém foi manualmente, onde criamos uma função que concatenava duas strings com uma informação do usuário, não usamos nenhuma biblioteca nem nada. E sobre autenticação, também criamos tokens de forma manual, onde juntavamos uma frase secreta com o id do usuário.
+
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 - Quero aprender mais sobre ele, como usá-lo e como vamos integrar isso nas API's que criamos
@@ -244,6 +249,8 @@ Para criar uma variável usando a classe é preciso que depois de criar a variá
 - Quero aprender o que é marca pessoal e uma melhor forma de montar meu plano de carreira
 
 - Espero aprender a como conectar meu código ao banco de dados para poder usar o banco de dados nos meus projetos ao invés de simular um banco de dados
+
+- Quero aprender a como criptografar e autenticar usando bibliotecas, para deixar a criptografia e a autenticação mais segura e confiável.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
