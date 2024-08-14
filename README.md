@@ -208,6 +208,7 @@ Para criar uma variável usando a classe é preciso que depois de criar a variá
 - Conexão Node.js com PostgreSQL
 - Autenticação e criptografia
 - Integração com API de terceiros
+- Git e fluxo de trabalho em equipe
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -233,6 +234,8 @@ Para criar uma variável usando a classe é preciso que depois de criar a variá
 
 - Ainda não sei nada sobre como integrar a API de terceiros com a minha API.
 
+- Sei alguns comando do Git, como fazer o pull para puxar as modificações do repositório do Github para o arquivo do meu computador, o push que modifica o repositório do GitHub com as alterações feitas no arquivo do meu computador, git commit -m “mensagem commit" que cria um comit, entre outros comandos.
+
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 - Quero aprender mais sobre ele, como usá-lo e como vamos integrar isso nas API's que criamos.
@@ -256,6 +259,8 @@ Para criar uma variável usando a classe é preciso que depois de criar a variá
 - Quero aprender a como criptografar e autenticar usando bibliotecas, para deixar a criptografia e a autenticação mais segura e confiável.
 
 - Espero aprender a como integrar as API´s de outras pessoas com a minha, para poder usá-las algum dia, como por exemplo, usar a API do chat GPT neste desafio do módulo 4.
+
+- Eu gostaria de aprender mais comandos que ajude eu trabalhar melhor em equipe quando fazemos um projeto.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
