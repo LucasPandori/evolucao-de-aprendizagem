@@ -276,4 +276,6 @@ Para criar uma variável usando a classe é preciso que depois de criar a variá
 
 - Nesta aula conheci uma nova biblioteca que conecta o node.js com o postgres. Esta biblioteca permite que a API se conecte com o banco de dados por dois modos: o cliente e o pool. Foi recomendado que usássemos o pool, pois é mais fácil de usar inicialmente. Junto desses modos, foi mostrado como importar a biblioteca, como criar um pool e como fazer uma query. Para criar um pool é preciso passar o host, o user, o max , que é quantos clientes irá ser necessário, a senha e o nome do banco de dados. Para fazer uma query é preciso chamar uma query e passar qual comando SQL vc quer usar e quais variáveis irá usar. Por exemplo: const filtrarUsuarios = await pool.query('select * from usuários where id=$1', [id]). Também foi mostrado como deixar o banco de dados mais seguro usando o dotenv e como se prevenir de ataques de SQL Injection.
 
+- Aprendi a como aprovar um pull request para dar merge em uma branch, a escolher qual branch eu quero pedir o pull request e como resolver conflitos entre repositórios.
+
 </details>
